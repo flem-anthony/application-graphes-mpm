@@ -45,3 +45,4 @@ java MPM.Controleur
 
 ## 👪 Collaborateurs du projet
 - 1️⃣ ![Lucas El Maknassi](https://github.com/Isuax)
+- 2️⃣ ![Alexandre Freret](https://github.com/)
