@@ -44,3 +44,4 @@ java MPM.Controleur
 ```
 
 ## 👪 Collaborateurs du projet
+- ![link](https://github.com/Isuax)
