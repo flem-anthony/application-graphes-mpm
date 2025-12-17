@@ -17,32 +17,6 @@ Elle permet d'analyser les dépendances entre tâches, de calculer un ou plusieu
 
 ![Capture](./images/MPM.png)
 
-## 🚀 Installation et exécution
-
-### 1. Compilation
-Assurez-vous que le fichier `compile.list` contient la liste de tous les fichiers source à compiler.
-Depuis le dossier contenant vos fichiers `.java` :
-- Pour les terminaux Linux:
-```bash
-javac @compile.list -d ../class
-```
-- Pour les terminaux Windows:
-```bash
-javac (Get-content compile.list) -d ../class  
-```
-
-### 2. Exécution
-Un répertoire `class` vient, normalement, d'être créé. Assurez-vous que ce soit le cas.
-Déplacez-vous dans ce répertoire avec la commande:
-```bash
-cd ../class
-```
-
-et exécutez la commande:
-```bash
-java MPM.Controleur
-```
-
 ## 👪 Collaborateurs du projet
 ### 1️⃣ ![Lucas EL MAKNASSI](https://github.com/Isuax)
 ### 2️⃣ ![Alexandre FRERET](https://github.com/alexandrefreret-09)
